@@ -1,4 +1,4 @@
-# Personal Project: GPA Calculator
+# GPA Calculator
 
 ## Percentage to GPA Application 
 
